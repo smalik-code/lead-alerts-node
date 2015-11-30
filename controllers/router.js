@@ -7,7 +7,7 @@ var client = twilio(config.accountSid, config.authToken);
 // Some hard-coded information about a house
 var house = {
     title: 'Google Apps for Work – Email, Collaboration Tools And More',
-    price: '$5/month per User',
+    price: '$5/month Per User',
     description: 'Google Apps is a suite of web-based collaboration software to '
         + 'meets the needs of your small to medium sized business: '
         + 'Gmail; Google Calendar for shared calendaring; Google Docs and Spreadsheets '
